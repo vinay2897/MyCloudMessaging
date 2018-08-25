@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SPIT MCA Updates</string>
+    <string name="default_notification_channel_id">idk</string>
+    <string name="default_notification_channel_name">idek</string>
+    <string name="announcements">Announcements</string>
+    <string name="events">Events</string>
+    <string name="notice">Notice</string>
+    <string name="exam">Exam</string>
+    <string name="admission">Admission</string>
+    <string name="news">News</string>
+    <string name="home">Home</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

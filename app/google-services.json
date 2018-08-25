@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "417002366305",
+    "firebase_url": "https://myfirebaseproject-16e6d.firebaseio.com",
+    "project_id": "myfirebaseproject-16e6d",
+    "storage_bucket": "myfirebaseproject-16e6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417002366305:android:f4289d0e4d80731b",
+        "android_client_info": {
+          "package_name": "com.example.vinay.cloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417002366305-dveml29htpb0lpfoi4msnt813mq4mugq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vinay.cloudmessaging",
+            "certificate_hash": "a947478a49a8d054cfde8250b9f72e296a48440a"
+          }
+        },
+        {
+          "client_id": "417002366305-4gcmh5qtsb4ggaobdjkur4hcv6khkovf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8MlbIBnOxJlqCO7tqBZMz82qzm5ZIC4g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417002366305-4gcmh5qtsb4ggaobdjkur4hcv6khkovf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417002366305:android:55df79a35c436136",
+        "android_client_info": {
+          "package_name": "com.example.vinay.mycloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417002366305-djimdb2rjk2m27o5mt7o65v5d2sd689k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vinay.mycloudmessaging",
+            "certificate_hash": "a947478a49a8d054cfde8250b9f72e296a48440a"
+          }
+        },
+        {
+          "client_id": "417002366305-4gcmh5qtsb4ggaobdjkur4hcv6khkovf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8MlbIBnOxJlqCO7tqBZMz82qzm5ZIC4g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417002366305-4gcmh5qtsb4ggaobdjkur4hcv6khkovf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417002366305:android:6be3614fc7dd41b6",
+        "android_client_info": {
+          "package_name": "com.example.vinay.myfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417002366305-4mta0piipub6eqhe3mlcs846onfo1f1r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vinay.myfirebase",
+            "certificate_hash": "a947478a49a8d054cfde8250b9f72e296a48440a"
+          }
+        },
+        {
+          "client_id": "417002366305-4gcmh5qtsb4ggaobdjkur4hcv6khkovf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8MlbIBnOxJlqCO7tqBZMz82qzm5ZIC4g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417002366305-4gcmh5qtsb4ggaobdjkur4hcv6khkovf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417002366305:android:06a189bc6e4b7278",
+        "android_client_info": {
+          "package_name": "com.example.vinay.myjobservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417002366305-m65mggi25vjefh2udvs6rbi8n786fpk8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vinay.myjobservice",
+            "certificate_hash": "a947478a49a8d054cfde8250b9f72e296a48440a"
+          }
+        },
+        {
+          "client_id": "417002366305-4gcmh5qtsb4ggaobdjkur4hcv6khkovf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8MlbIBnOxJlqCO7tqBZMz82qzm5ZIC4g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417002366305-4gcmh5qtsb4ggaobdjkur4hcv6khkovf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
