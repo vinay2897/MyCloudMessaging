@@ -39,7 +39,6 @@ public class MainActivity extends AppCompatActivity {
     private Toolbar toolbar;
     private Bundle args;
     private FragmentManager fragmentManager;
-    private Menu menu;
 
     @RequiresApi(api = Build.VERSION_CODES.KITKAT)
     @Override
@@ -81,12 +80,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         super.onCreateOptionsMenu(menu);
-        this.menu = menu;
         return true;
-    }
-
-    public Menu getMenu(){
-        return this.menu;
     }
 
     public boolean onOptionsItemSelected(MenuItem item) {
